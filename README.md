@@ -16,7 +16,7 @@
 邮箱：hi@huxinchun.com
 > 说明：本人非php程序员，技术粗浅，该博客系统还有许多不够完善和有待开发和优化的部分，暂时发布该简要版只为方便分享和交流。
 
-##后台主要功能
+## 后台主要功能
 * 内容管理：文章的增、删、改、查。
 * 栏目设置：可添加，修改，删除文章分类与栏目。
 * 名片设置：展示博主信息。
@@ -27,7 +27,7 @@
 * 时间轴：更新计划中。
 * 页面标签：更新计划中。
 
-##前台主题
+## 前台主题
 清新简约的原创主题，自适应，兼容性好，在不同设备上都有较优的体验感。
 
 ##安装使用说明
@@ -47,11 +47,11 @@
 * 5、默认用户名和密码都是：admin 。
 * 6、ci框架详细安装说明，及安全增强配置请参考：https://codeigniter.org.cn/user_guide/installation/index.html
 
-##HXC v1.0 文件目录  
+## HXC v1.0 文件目录  
 
 ![ABCrwe](https://github.com/HXCblog/myimages/blob/master/img/1503466299718568.png?raw=true)  
 
-##CI 流程控制图  
+## CI 流程控制图  
 ![ABCee](https://github.com/HXCblog/myimages/blob/master/img/1503466256419052.png?raw=true)
 * 1、index.php 文件作为前端控制器，初始化运行 CodeIgniter 所需的基本资源；
 * 2、Router 检查 HTTP 请求，以确定如何处理该请求；
@@ -59,7 +59,7 @@
 * 4、在加载应用程序控制器之前，对 HTTP 请求以及任何用户提交的数据进行安全检查；
 * 5、控制器加载模型、核心类库、辅助函数以及其他所有处理请求所需的资源；
 * 6、最后一步，渲染视图并发送至浏览器，如果开启了缓存，视图被会先缓存起来用于 后续的请求。
-##其他设置：
+## 其他设置：
 
 移除 URL 中的 index.php
 默认情况，你的 URL 中会包含 index.php 文件:
@@ -87,11 +87,11 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 
 ![主页w](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E4%B8%BB%E9%A1%B5.png?raw=true)   
 
-###文章页  
+### 文章页  
 
 ![主页re](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E6%96%87%E7%AB%A0%E9%A1%B5.png?raw=true) 
 
-##后台界面预览：  
+## 后台界面预览：  
 
 ###后台主页  
 
@@ -105,7 +105,7 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 ![主页234sd](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91.png?raw=true) 
 
 
-##混合式APP界面（兼容安卓及IOS）
+## 混合式APP界面（兼容安卓及IOS）
 #（一）APP下载地址：
 ![主页234d](https://github.com/HXCblog/myimages/blob/master/img/1509002238223351.jpg?raw=true) 
 
@@ -115,8 +115,8 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 ![主页ert](https://github.com/HXCblog/myimages/blob/master/img/1509001558384748.png?raw=true)
 ![主页5435](https://github.com/HXCblog/myimages/blob/master/img/1509003598542430.png?raw=true)
 
-#项目开源地址：
-
-
-#文档说明地址：
+# 项目开源地址：
+基于MUI、H5+的HXC胡新春博客APP V1.0
+https://github.com/HXCblog/HXCapp
+# 文档说明地址：
 http://www.huxinchun.com/Home/content/71
