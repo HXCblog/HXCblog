@@ -70,5 +70,7 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 `$route['default_controller'] = 'home' `为首页，
 其中“home”替换为你的首页控制器名
 参考：`http://codeigniter.org.cn/user_guide/general/routing.html`
+##前台界面：
+![主页](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E4%B8%BB%E9%A1%B5.png?raw=true) 
 ##后台界面预览：
 
