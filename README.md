@@ -1,4 +1,4 @@
-# mytest
+# HXCblog博客 v1.0 主要基于Codeigniter + layui开发，是一套简练简介的个人博客程序，并一同开发了该系统APP客户端。
 基于CI+layui开发的个人博客系统
 ##博客系统简介
 
@@ -71,3 +71,4 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 其中“home”替换为你的首页控制器名
 参考：`http://codeigniter.org.cn/user_guide/general/routing.html`
 ##后台界面预览：
+
