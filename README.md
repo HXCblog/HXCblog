@@ -104,12 +104,10 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 ###内容编辑页
 ![主页234sd](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91.png?raw=true) 
 
-##响应式界面
-![主页vse](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E7%A7%BB%E5%8A%A8%E4%B8%BB%E9%A1%B5.png?raw=true) 
 
 ##混合式APP界面（兼容安卓及IOS）
 #（一）APP下载地址：
-![主页234d](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509002238223351.jpg) 
+![主页234d](https://github.com/HXCblog/myimages/blob/master/img/1509002238223351.jpg?raw=true) 
 
 ###HXCapp主界面  
 ![主页sdqew](https://github.com/HXCblog/myimages/blob/master/img/1509001558987535.png?raw=true) 
