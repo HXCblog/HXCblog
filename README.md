@@ -36,12 +36,12 @@
 * 1、解压缩安装包，将HXCblog文件夹及里面的文件上传到服务器，index.php 文件将位于网站的根目录.
 * 2、使用文本编辑器打开 application/config/config.php 文件设置你网站的根URL   
 
-![Asd](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503468157321813.png)  
+![Asd](https://github.com/HXCblog/myimages/blob/master/img/1503468157321813.png?raw=true)  
 
 
 * 3、如果你打算使用数据库，打开 application/config/database.php 文件设置数据库参数。修改为自己的数据库地址，账户，密码，及数据库。  
 
-![ABC23](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503468165131636.png)  
+![ABC23](https://github.com/HXCblog/myimages/blob/master/img/1503468165131636.png?raw=true)  
 
 * 4、将hxcblog.sql文件导入数据库中或者复制数据库使用SQL语句添加创建。
 * 5、默认用户名和密码都是：admin 。
@@ -49,10 +49,10 @@
 
 ##HXC v1.0 文件目录  
 
-![ABCrwe](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503466299718568.png)  
+![ABCrwe](https://github.com/HXCblog/myimages/blob/master/img/1503466299718568.png?raw=true)  
 
 ##CI 流程控制图  
-![ABCee](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503466256419052.png)
+![ABCee](https://github.com/HXCblog/myimages/blob/master/img/1503466256419052.png?raw=true)
 * 1、index.php 文件作为前端控制器，初始化运行 CodeIgniter 所需的基本资源；
 * 2、Router 检查 HTTP 请求，以确定如何处理该请求；
 * 3、如果存在缓存文件，将直接输出到浏览器，不用走下面正常的系统流程；
@@ -112,10 +112,10 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 ![主页234d](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509002238223351.jpg) 
 
 ###HXCapp主界面  
-![主页sdqew](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558987535.png) 
-![主页ehgh](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558384748.png)
-![主页ert](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558275879.png)
-![主页5435](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001559996561.png)
+![主页sdqew](https://github.com/HXCblog/myimages/blob/master/img/1509001558987535.png?raw=true) 
+![主页ehgh](https://github.com/HXCblog/myimages/blob/master/img/1509001558275879.png?raw=true)
+![主页ert](https://github.com/HXCblog/myimages/blob/master/img/1509001558384748.png?raw=true)
+![主页5435](https://github.com/HXCblog/myimages/blob/master/img/1509003598542430.png?raw=true)
 
 #项目开源地址：
 
