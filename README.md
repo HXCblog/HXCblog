@@ -36,12 +36,12 @@
 * 1、解压缩安装包，将HXCblog文件夹及里面的文件上传到服务器，index.php 文件将位于网站的根目录.
 * 2、使用文本编辑器打开 application/config/config.php 文件设置你网站的根URL   
 
-![ABC](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503468157321813.png)  
+![Asd](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503468157321813.png)  
 
 
 * 3、如果你打算使用数据库，打开 application/config/database.php 文件设置数据库参数。修改为自己的数据库地址，账户，密码，及数据库。  
 
-![ABC](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503468165131636.png)  
+![ABC23](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503468165131636.png)  
 
 * 4、将hxcblog.sql文件导入数据库中或者复制数据库使用SQL语句添加创建。
 * 5、默认用户名和密码都是：admin 。
@@ -49,10 +49,10 @@
 
 ##HXC v1.0 文件目录  
 
-![ABC](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503466299718568.png)  
+![ABCrwe](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503466299718568.png)  
 
 ##CI 流程控制图  
-![ABC](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503466256419052.png)
+![ABCee](http://www.huxinchun.com/ueditor/php/upload/image/20170823/1503466256419052.png)
 * 1、index.php 文件作为前端控制器，初始化运行 CodeIgniter 所需的基本资源；
 * 2、Router 检查 HTTP 请求，以确定如何处理该请求；
 * 3、如果存在缓存文件，将直接输出到浏览器，不用走下面正常的系统流程；
@@ -85,37 +85,37 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 ##前台界面：
 ###主页  
 
-![主页](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E4%B8%BB%E9%A1%B5.png?raw=true)   
+![主页w](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E4%B8%BB%E9%A1%B5.png?raw=true)   
 
 ###文章页  
 
-![主页](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E6%96%87%E7%AB%A0%E9%A1%B5.png?raw=true) 
+![主页re](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E6%96%87%E7%AB%A0%E9%A1%B5.png?raw=true) 
 
 ##后台界面预览：  
 
 ###后台主页  
 
-![主页](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%90%8E%E5%8F%B0%E4%B8%BB%E9%A1%B5.png?raw=true)   
+![主页ds](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%90%8E%E5%8F%B0%E4%B8%BB%E9%A1%B5.png?raw=true)   
 
 ###栏目分类页  
 
-![主页](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%88%86%E7%B1%BB%E6%A0%8F%E7%9B%AE.png?raw=true)   
+![主页wer](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%88%86%E7%B1%BB%E6%A0%8F%E7%9B%AE.png?raw=true)   
 
 ###内容编辑页
-![主页](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91.png?raw=true) 
+![主页234sd](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91.png?raw=true) 
 
 ##响应式界面
-![主页](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E7%A7%BB%E5%8A%A8%E4%B8%BB%E9%A1%B5.png?raw=true) 
+![主页vse](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E7%A7%BB%E5%8A%A8%E4%B8%BB%E9%A1%B5.png?raw=true) 
 
 ##混合式APP界面（兼容安卓及IOS）
 #（一）APP下载地址：
-![主页](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509002238223351.jpg) 
+![主页234d](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509002238223351.jpg) 
 
 ###HXCapp主界面  
-![主页](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558987535.png) 
-![主页](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558384748.png)
-![主页](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558275879.png)
-![主页](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001559996561.png)
+![主页sdqew](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558987535.png) 
+![主页ehgh](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558384748.png)
+![主页ert](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001558275879.png)
+![主页5435](http://www.huxinchun.com/ueditor/php/upload/image/20171026/1509001559996561.png)
 
 #项目开源地址：
 
