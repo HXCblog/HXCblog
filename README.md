@@ -1,17 +1,29 @@
 # HXCblog博客 v1.0 主要基于Codeigniter + layui开发，是一套简练简介的个人博客程序，并一同开发了该系统APP客户端。
 基于CI+layui开发的个人博客系统
+
 ##博客系统简介
 
-* HXC v1.0主要基于Codeigniter + layui开发
-* 版本：HXC v1.0 简要版
+* HXCblogv1.0主要基于Codeigniter3 + layui开发
+* 版本：HXCblog v1.0 简要版
 * 时间：2017年8月
 * 托管于阿里云 ECS
 * 服务器环境为： centos 6.8 + Apache + Mysql 
+
+------------
+
+* HXCblogv2.0主要基于Codeigniter3 + bootstrap3开发
+* 版本：HXCblog v2.0
+* 时间：2018年3月
 
 ####博客地址：  
 
 * [胡新春博客:www.huxinchun.com](http://www.huxinchun.com)
 * 博客程序安装教程：http://www.huxinchun.com/Home/content/40
+
+* 项目地址：
+* [HXCblogv1.0](https://github.com/HXCblog/HXCblog)
+* [HXCblogv2.0](https://github.com/HXCblog/HXCblogv2.0)
+* [HXCblog_app](https://github.com/HXCblog/HXCapp)
 
 邮箱：hi@huxinchun.com
 > 说明：本人非php程序员，技术粗浅，该博客系统还有许多不够完善和有待开发和优化的部分，暂时发布该简要版只为方便分享和交流。
