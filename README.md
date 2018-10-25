@@ -127,24 +127,24 @@ ci官方手册：`https://codeigniter.org.cn/user_guide/general/urls.html`
 ##前台界面：
 ###主页  
 
-![主页w](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E4%B8%BB%E9%A1%B5.png?raw=true)   
+![主页w](https://github.com/HXCblog/myimages/blob/master/img/%E4%B8%BB%E9%A1%B5.png)   
 
 ### 文章页  
 
-![主页re](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E6%96%87%E7%AB%A0%E9%A1%B5.png?raw=true) 
+![主页re](https://github.com/HXCblog/myimages/blob/master/img/%E6%96%87%E7%AB%A0%E9%A1%B5.png) 
 
 ## 后台界面预览：  
 
 ###后台主页  
 
-![主页ds](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%90%8E%E5%8F%B0%E4%B8%BB%E9%A1%B5.png?raw=true)   
+![主页ds](https://github.com/HXCblog/myimages/blob/master/img/hxc6.png)   
 
 ###栏目分类页  
 
 ![主页wer](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%88%86%E7%B1%BB%E6%A0%8F%E7%9B%AE.png?raw=true)   
 
 ###内容编辑页
-![主页234sd](https://github.com/HXCblog/HXCblog-PC-/blob/master/%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91.png?raw=true) 
+![主页234sd](https://github.com/HXCblog/myimages/blob/master/img/%E5%86%85%E5%AE%B9%E7%BC%96%E8%BE%91.png) 
 
 
 
