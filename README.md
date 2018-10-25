@@ -1,7 +1,7 @@
 # HXCblog v1.0-精简版个人博客系统 
 主要基于Codeigniter3框架 +前台后台界面layui1.0开发，非常精简的个人博客系统。
 
-##博客系统简介
+## 博客系统简介
 
 * 后台语言:PHP Codeigniter3
 * 后台界面：layui1.0
@@ -12,9 +12,9 @@
 * Codeigniter框架官方开发环境：Apache
 * 演示站部署环境：centos6.8+nginx1.14.0+mysql5.7
 
-#####说明：本人非php程序员，技术粗浅，HXCblogv1.0精简版博客非常方便记笔记和学习之用，程序完整可用，保留该版本只为方便分享和交流。
+##### 说明：本人非php程序员，技术粗浅，HXCblogv1.0精简版博客非常方便记笔记和学习之用，程序完整可用，保留该版本只为方便分享和交流。
 
-##博客地址：  
+## 博客地址：  
 * [HXCblogv1.0演示站:http://v1.huxinchun.com](http://v1.huxinchun.com)
 * [HXC博客:www.huxinchun.com](http://www.huxinchun.com)
 
@@ -54,7 +54,7 @@
 * 5、默认用户名和密码都是：admin 。
 * 6、ci框架详细安装说明，及安全增强配置请参考：https://codeigniter.org.cn/user_guide/installation/index.html
 
-####nginx环境中配置参数
+#### nginx环境中配置参数
 如果您使用的nginx环境，博客只能正常显示首页，其他页面均为404，这是由于CI框架是在apache环境中开发的，所以您需要百度CI框架在nginx环境中的配置。如下整理了一份简单的nginx环境中的虚拟主机配置，仅供参考。（如果您使用类似phpstudy等集成环境测试，选择好服务环境后一般不会出现太大问题）
 <pre>
 server
@@ -75,7 +75,7 @@ server
     }
 </pre>
 
-###补充说明
+### 补充说明
 如果正确安装配置后，出现session_start(): Failed to initialize storage module 
 原因分析：php5一个安全模式的bug，默认session的save_path是系统的临时目录，这样会要校验权限。
 解决办法：
