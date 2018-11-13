@@ -15,7 +15,7 @@
 ##### 说明：本人非php程序员，技术粗浅，HXCblogv1.0精简版博客非常方便记笔记和学习之用，程序完整可用，保留该版本只为方便分享和交流。
 
 ## 博客地址：  
-* [HXCblogv1.0演示站:http://v1.huxinchun.com](http://v1.huxinchun.com)
+* [HXCblogv1.0演示站:http://v1.huxinchun.com](http://v1.huxinchun.com/home)
 * [HXC博客:www.huxinchun.com](http://www.huxinchun.com)
 
 * 项目地址：
