@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 此处替换成你的域名和网站根目录名
 */
-$config['base_url'] = 'http://v1.huxinchun.com/';
+$config['base_url'] = 'http://localhost/';
 
 /*
 |--------------------------------------------------------------------------
@@ -34,7 +34,7 @@ $config['base_url'] = 'http://v1.huxinchun.com/';
 默认主页访问路径为：http://www.test.com/index.php/Home/index
 若需要去除此默认路径请参考ci官网文档：如何去除ci默认 index.php
 */
-$config['index_page'] = '';
+$config['index_page'] = 'index.php';
 
 /*
 |--------------------------------------------------------------------------
