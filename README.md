@@ -51,7 +51,7 @@
 ![ABC23](https://github.com/HXCblog/myimages/blob/master/img/1503468165131636.png?raw=true)  
 
 * 4、新建好数据库，将hxcblogv1.0.sql文件导入数据库中或者复制数据库使用SQL语句添加创建。
-* 5、默认用户名和密码都是：admin 。
+* 5、默认用户名和密码都是：admin ；前端默认访问地址为：http://localhost/index.php/home(去除index.php路径化，默认访问地址为：http://localhost/home)；后台登录地址默认为：http://localhost/index.php/admin(或http://localhost/admin)
 * 6、ci框架详细安装说明，及安全增强配置请参考：https://codeigniter.org.cn/user_guide/installation/index.html
 
 #### nginx环境中配置参数
